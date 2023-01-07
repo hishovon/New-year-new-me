@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* background work */
+.background {
+    background-image: url('../images/banner/banner1.png');
+    height: 100vh;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-bottom: 0px;
+
+}
+
+.banner {
+    margin-left: 70%;
+    padding-top: 16%;
+    padding-right: 5%;
+    font-weight: 300;
+    font-size: 30px;
+    color: #151414;
+}
+
+.font {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+}
+
+.button-style {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 30px;
+    height: 64px;
+    border-radius: 5px;
+    background: #24c9bb;
+    margin-left: 300px;
+    margin-top: 40px;
+}
+
+/* body work */
+.body {
+    display: flex;
+    margin-top: 20%;
+    margin-left: 10%;
+    margin-bottom: 5%;
+}
+
+.body-font {
+    margin-left: 15%;
+    margin-top: 10%;
+    font-weight: 700;
+    font-size: 40px;
+    padding-right: 25%;
+}
+
+.list-font {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+
+}
+
+/* logos part */
+.skills-container {
+    display: flex;
+    gap: 200px;
+    margin-left: 14%;
+    margin-top: 60px;
+}
+
+.logo {
+    text-align: center;
+    margin-left: 40px;
+    margin-bottom: 10%;
+
+}
+
+.title {
+    font-weight: 700px;
+    font-size: 30px;
+    color: #151414;
+}
+
+.para {
+    font-weight: 500;
+    font-size: 25px;
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+    margin-top: 10px;
+}
+
+/* dark box */
+.dark-box {
+    height: 577px;
+    background: #151414;
+    margin: 20px auto;
+    margin-top: 100px;
+    display: block;
+    display: flex;
+   
+}
+
+.info {
+    margin-left: 12%;
+    margin-top: 170px;
+    padding-right: 40%;
+}
+
+.input {
+    padding-top: 10%;
+ 
+}
+
+.font-title {
+    font-weight: 700;
+    font-size: 45px;
+    color: #F8F8F8;
+}
+
+.font-color {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+.logo-space{
+  gap: 10%;
+}
