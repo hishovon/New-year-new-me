@@ -42,9 +42,15 @@
 }
 
 /* body work */
+
+.scroll{
+    text-align: center;
+    margin-top: 50px;
+    color :crimson;
+}
 .body {
     display: flex;
-    margin-top: 20%;
+    margin-top: 100px;
     margin-left: 10%;
     margin-bottom: 5%;
 }
